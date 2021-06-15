@@ -1,3 +1,10 @@
+// Given n distinct numbers, implement iterative binary search to check the 
+// presence of target number k.
+// In case k is present among those n numbers, print 1 Else print -1
+// using Iterative approach
+
+
+
 function runProgram(input){
     // Write code here
     input = input.trim().split("\n")

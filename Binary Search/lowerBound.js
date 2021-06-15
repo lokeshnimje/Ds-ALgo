@@ -1,3 +1,10 @@
+// You are given n different numbers and an integer k. 
+// Write a program that finds lower bound of k in log(n) time complexity. 
+// Lower bound of a number k in a sorted list is the index of the first number 
+// which is same as k, in case the number is not present, print -1 
+// (here the answer is given considering index to be starting from 0)
+
+
 function runProgram(input){
     // Write code here
     input = input.trim().split("\n")

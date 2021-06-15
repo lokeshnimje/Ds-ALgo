@@ -1,3 +1,9 @@
+// You are given an array A of size N, and Q queries to deal with.
+//  For each query, you are given an integer X, and you're supposed
+//   to find out if X is present in the array A or not.
+
+
+
 function runProgram(input){
     // Write code here
     input = input.trim().split("\n")
