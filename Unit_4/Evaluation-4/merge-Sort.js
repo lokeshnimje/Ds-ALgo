@@ -1,3 +1,6 @@
+// Given a list of n integers. Write a program for merge sort algorithm such that
+//  it reverses the list in descending order.  You must not write any other sorting algorithm
+
 function runProgram(input){
     // Write code here
     input = input.trim().split('\n')

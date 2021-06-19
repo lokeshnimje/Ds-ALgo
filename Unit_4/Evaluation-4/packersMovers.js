@@ -1,3 +1,15 @@
+// You are excited about your new job and want to move to Bangalore,
+// as soon as possible. You have to transport K units of weight of your stuff to Bangalore, 
+// therefore, you hired Masai Packers & Movers to do the job for you. 
+// The company has N trucks, each with a certain capacity C. 
+// Because of surge in fuel prices, the company has made a new policy 
+// that the trucks will be allowed to travelled, only if the truck is completely
+//  filled and has no empty spaces. Also, because of some issues, the company has only one driver. 
+//  Therefore, in one day only a single truck can be used, to transport the things to Bangalore. 
+//  Print the minimum and the maximum number of days, it will take to transport everything to Bangalore. 
+//  If it is impossible to transport everything to Bangalore, print -1.
+
+
 function runProgram(input){
     // Write code here
     input = input.trim().split('\n')
