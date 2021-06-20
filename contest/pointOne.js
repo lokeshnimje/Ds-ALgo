@@ -1,3 +1,4 @@
+// find position of first 1.
 function runProgram(input){
     // Write code here
     input = input.trim().split("\n")
@@ -36,10 +37,10 @@ function runProgram(input){
 
 if(process.env.USERNAME === "hp"){
     runProgram(`2
-    4
-    0 0 0 1 
-    1
-    1`)
+    5
+    0 0 0 0 1 
+    3
+    0 1 1`)
 } else {
 process.stdin.resume();
 process.stdin.setEncoding("ascii");

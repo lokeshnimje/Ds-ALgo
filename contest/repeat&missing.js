@@ -1,3 +1,4 @@
+// find the repeated and missing element in an array
 function runProgram(input){
     // Write code here
     input = input.trim().split("\n")

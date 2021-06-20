@@ -1,3 +1,4 @@
+// find square root of given number
 function runProgram(input){
     // Write code here
     input = input.trim().split('\n')
@@ -5,6 +6,7 @@ function runProgram(input){
     for(let i=0, j=1; i<test; i++){
         let num = +input[j++].trim()
         let sqrt = num**0.5
+        // console.log(sqrt)
         console.log(Math.floor(sqrt))
     }
 }
@@ -12,7 +14,7 @@ function runProgram(input){
 if(process.env.USERNAME === "hp"){
     runProgram(`2
     4
-    8`)
+    16`)
 } else {
 process.stdin.resume();
 process.stdin.setEncoding("ascii");

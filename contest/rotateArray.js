@@ -1,3 +1,4 @@
+// rotate the given array by given k nno of times.
 function runProgram(input){
     // Write code here
     input = input.trim().split("\n")

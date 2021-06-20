@@ -1,3 +1,4 @@
+// find min no of operation to sort given string.
 function runProgram(input){
     // Write code here
     input = input.trim().split("\n")
@@ -18,7 +19,7 @@ function runProgram(input){
             i++
         }
     }
-    console.log(count)
+    console.log(arr, count)
 }
 
 if(process.env.USERNAME === "hp"){

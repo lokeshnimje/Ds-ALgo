@@ -1,3 +1,4 @@
+// find nearest smaller element on either side of particular element.
 function runProgram(input){
     // Write code here
     input = input.trim().split("\n")

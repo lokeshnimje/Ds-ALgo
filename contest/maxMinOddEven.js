@@ -1,4 +1,4 @@
-
+// difference between highest odd element and lowest even element.
 function runProgram(input) {
 	// Write code here
     input = input.trim().split("\n")

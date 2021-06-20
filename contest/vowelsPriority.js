@@ -1,3 +1,4 @@
+// print all vowels first in same given order than remaining consonants
 function runProgram(input){
     // Write code here
     input = input.trim().split('\n')

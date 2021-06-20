@@ -1,3 +1,4 @@
+// reverse the array.
 let inp = ['s','k','y',' ','i','s',' ','b','l','u','e']
 // let opt = ['b','l','u','e',' ','i','s',' ','s','k','y']
 let newArr = []

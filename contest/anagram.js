@@ -1,4 +1,4 @@
-
+// check two arrays are anagram or not?
 function runProgram(input) {
 	// Write code here
     input = input.trim().split("\n")

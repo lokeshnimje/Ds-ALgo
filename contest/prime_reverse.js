@@ -1,3 +1,4 @@
+// find given number and their reverse both is prime or not.
 function runProgram(input){
     // Write code here
     input = input.trim().split('\n')

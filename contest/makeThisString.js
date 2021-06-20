@@ -1,4 +1,4 @@
-
+// find all the elements of second string is present in first string.
 function runProgram(input) {
 	// Write code here
     input = input.trim().split("\n")

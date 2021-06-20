@@ -1,3 +1,4 @@
+// find prime number
 function runProgram(input){
     // Write code here
   input = input.trim().split('\n')

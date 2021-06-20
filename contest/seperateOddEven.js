@@ -1,3 +1,5 @@
+// if given query is 1 then sort array in ascending order but even first then odd
+// if given query is 2 then sort array in ascending order but odd first then even.
 
 function runProgram(input) {
 	// Write code here

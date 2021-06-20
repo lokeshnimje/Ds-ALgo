@@ -1,4 +1,4 @@
-
+// find product of remaining elements of array.
 function runProgram(input) {
 	// Write code here
     input = input.trim().split("\n")
@@ -25,7 +25,7 @@ function runProgram(input) {
 if(process.env.USERNAME === "hp"){
     runProgram(`2
     5
-    1 2 3 4 5
+    1 2 3 4 5 
     3
     3 2 7`)
 } else {

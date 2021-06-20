@@ -1,3 +1,4 @@
+// find given string is skew or not. if even > odd = skew.
 function runProgram(input){
     // Write code here
     input = input.trim().split("\n")

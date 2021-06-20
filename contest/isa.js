@@ -1,4 +1,4 @@
-
+// how many "isa" present horizontally and vertically
 function runProgram(input) {
 	// Write code here
     input = input.trim().split('\n');

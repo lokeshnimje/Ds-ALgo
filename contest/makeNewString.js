@@ -1,3 +1,4 @@
+// make new string which is index square of given string's index.
 function runProgram(input){
     // Write code herec
     let str = input.trim()

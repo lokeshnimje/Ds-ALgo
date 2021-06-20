@@ -1,3 +1,4 @@
+// find is it possible ot make 2nd element by multiplying first element.
 function runProgram(input){
     // Write code here
     input = input.trim().split("\n")

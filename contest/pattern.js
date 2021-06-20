@@ -1,3 +1,4 @@
+// create a pattern.
 function runProgram(input){
     // Write code here
     input = +input

@@ -1,4 +1,4 @@
-
+// make new array with all the unique value.
 function runProgram(input) {
 	// Write code here
     input = input.trim().split("\n")

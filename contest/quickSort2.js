@@ -1,3 +1,4 @@
+// sort the given string using Quick sort
 function runProgram(input) {
     input = input.trim().split("\n");
     for (let i = 0; i < input.length; i++) {

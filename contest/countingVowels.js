@@ -1,4 +1,4 @@
-//Enter code here
+//Find count/frequency of vowles present in array.
 function runProgram(input){
     // Write code here
   input = input.trim().split('\n')

@@ -1,4 +1,4 @@
-
+// find all the elements of 2nd array is available in 1st array?
 function runProgram(input) {
 	// Write code here
     input = input.trim().split("\n")

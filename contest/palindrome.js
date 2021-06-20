@@ -1,3 +1,4 @@
+// is it possible to make palindrome of given string or not?
 function runProgram(input){
     // Write code here
   input = input.trim().split('\n')
